@@ -1,0 +1,10 @@
+- terraform init → set up project
+- terraform fmt → format code
+- terraform validate → check syntax
+- terraform plan → preview changes
+- terraform apply → create/update infra
+- terraform destroy → clean up
+- terraform show → Displays the current state of resources
+- terraform state list → Shows all resources currently tracked by Terraform
+- terraform output → Prints values defined in output blocks
+- terraform refresh → Updates the state file with the real-world status of resources
